@@ -21,8 +21,11 @@ for row in range(rows):
     for column in range(rows):
         grid[row].append(0)
 
+# starting and ending 
+# path will be determined between these 2 points..
 endx, endy = 0, 0
 startr, startc = 3,2
+
 grid[endx][endy] = 1
 pygame.init()
 WINDOW_SIZE = [600,600]
