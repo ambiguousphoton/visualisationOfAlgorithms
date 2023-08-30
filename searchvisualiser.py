@@ -1,6 +1,8 @@
 import pygame
 import time
 from dpingrid import depth_first_search
+
+# COLORS
 BLACK = (0,0,0)
 WHITE = (250,250,250)
 GREEN = (0,250,0)
@@ -8,11 +10,12 @@ RED = (250,0,0)
 BLUE = (0,0,255)
 PURPLE = (255,0,255)
 
-
+# DIMENTIONS OF GRID TILES
 MARGIN = 5.9
 WIDTH = 20
 HEIGHT = 20
 
+# NO OF TILES IN GRID
 rows = 23
 
 grid = []
@@ -55,7 +58,6 @@ def draw():
                               (MARGIN + HEIGHT) * row + MARGIN,
                               WIDTH,
                               HEIGHT])
-        
 
 while Running:
     for event in pygame.event.get():
