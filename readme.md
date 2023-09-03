@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🌟 Algorithm Visualization Repository 🌟</title>
-</head>
-<body>
+
     <h1>🚀 Algorithm Visualization</h1>
     <p>Welcome to the Algorithm Visualization repository! 🧮 Explore and visualize various algorithms in action with interactive animations and explanations.</p>
     
@@ -40,5 +33,4 @@
     <footer>
         <p>🌟 Happy coding and visualizing! 🌟</p>
     </footer>
-</body>
-</html>
+
