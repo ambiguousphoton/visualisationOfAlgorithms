@@ -1,4 +1,4 @@
-Algorithm Visualization 📊
+#Algorithm Visualization 📊
 Welcome to the Algorithm Visualization repository! 🚀
 
 Overview
