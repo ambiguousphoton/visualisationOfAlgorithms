@@ -1,3 +1,4 @@
+# Dp Non recursive
 def depth_first_search(row, col, rows, grid, end, memory = None):
     if memory == None:
         memory = {}
